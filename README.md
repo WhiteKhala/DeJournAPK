@@ -2,7 +2,8 @@ If you're interesting in looking at the source code feel free to send me an emai
 
 DeJourn
 
-Written in order to learn the basics of Java/Android is an app which hopes to help it's users with logging their life's moments with an easy to use, clean interface.
+This project was made in collaboration with NTaveras.
+DeJourn was written in order to learn the basics of Java/Android it is an app which hopes to help it's users with logging their life's moments with an easy to use, clean interface.
 
 Current working features
 - Save
