@@ -1,6 +1,6 @@
 If you're interesting in looking at the source code feel free to send me an email with your reasoning. As much as I'd like to keep my repos public, I've already ran into someone taking this specific project, removing all the git files and claiming it as their own.
 
-This project was made in collaboration with NTaveras.
+This project was made in collaboration with Norberto Taveras.
 
 DeJourn was written in order to learn the basics of Java/Android it is an app which hopes to help it's users with logging their life's moments with an easy to use, clean interface.
 
